@@ -19,4 +19,4 @@ Team members-
 Arvind, 
 Aryan, 
 Anush, 
-Ayush, 
+Ayush.
