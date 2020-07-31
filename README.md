@@ -13,7 +13,7 @@ We use two seprate arduino's arduino1 & arduino2 whose codes are given seprately
 
 Also refer the animation video for better understanding
 
-Circuit diagram of the model will be uploded soon.
+Circuit diagram of the model is also uploded.
 
 Team members-
 Arvind, 
